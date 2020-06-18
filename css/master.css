@@ -13,6 +13,9 @@ img{
   max-width:100%;
   max-height:100%;
 }
+span{
+  font-family: 'Rubik', sans-serif;
+}
 
 /* background images */
 .bg-leaf {
@@ -88,6 +91,9 @@ img{
 }
 
 /* benefits section */
+.feature-title{
+  font-weight: bold;
+}
 .feature-box{
   padding: 5% 0;
 }

@@ -1,0 +1,10 @@
+body{
+  font-size: 18px;
+  background-image: url("../images/background.jpg");
+}
+
+.container{
+  color: white;
+  text-align: right;
+  margin: 5% 10%;
+}

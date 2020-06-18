@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+}
+.text{
+  font-family: 'Varela Round', sans-serif;
+}
+.icons{
+  font-size: 2rem;
+}
+#facebook{
+  color: #0779e4;
+}
+#mail{
+  color: #d92027;
+}
+#instagram{
+  color: #b5076b;
+}

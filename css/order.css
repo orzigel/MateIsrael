@@ -1,0 +1,36 @@
+#s{
+display: none;
+}
+
+body{
+    text-align: center;
+    padding: 2% 5% 4%;
+  }
+p{
+  margin-bottom: 0;
+}
+.form{
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.space{
+  margin: 0 0 1%;
+}
+.form-control{
+  text-align: right;
+}
+.bit{
+  text-align: right;
+  color: grey;
+  font-size: 0.9rem;
+}
+.bit-sum{
+  text-align: right;
+  color: green;
+  font-size: 0.9rem;
+}
+button{
+  margin: 2% 0; 
+}
